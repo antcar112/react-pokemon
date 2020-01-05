@@ -1,0 +1,13 @@
+.Pokehand {
+	text-align: center;
+	margin-bottom: 40px;
+}
+.Pokehand__container {
+	display: flex;
+}
+.Pokehand--win {
+	color: green;
+}
+.Pokehand--lose {
+	color: red;
+}
